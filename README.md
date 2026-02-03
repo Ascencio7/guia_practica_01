@@ -38,18 +38,18 @@ Ademas de reutilizar código JS y CSS anteriores para optimizar el desarrollo. A
 
 ## Ejercicio 1
 
-- Ingresar los datos en el formulario
+- Ingresar los datos en el formulario.
 
 <figure>
   <img src="./images/1.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Mostrara error si los datos no han sido ingresados y querer enviar el formulario
+- Mostrará error si los datos no han sido ingresados y querer enviar el formulario.
 <figure>
   <img src="./images/2.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Mostrara mensaje de exito si los datos han sido ingresados correctamente
+- Mostrará mensaje de éxito si los datos han sido ingresados correctamente.
 <figure>
   <img src="./images/3.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
@@ -58,12 +58,12 @@ Ademas de reutilizar código JS y CSS anteriores para optimizar el desarrollo. A
 
 ## Ejercicio 2
 
-- Ingresar los valores de A, B y C
+- Ingresar los valores de A, B y C.
 <figure>
   <img src="./images/4.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Mostrara el resultado del calculo
+- Mostrará el resultado del cálculo.
 <figure>
   <img src="./images/5.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
@@ -72,17 +72,17 @@ Ademas de reutilizar código JS y CSS anteriores para optimizar el desarrollo. A
 
 ## Ejercicio 3
 
-- Formulario para convertir criptomonedas a otros tipos de monedas
+- Formulario para convertir criptomonedas a otros tipos de monedas.
 <figure>
   <img src="./images/6.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Se selecciona la criptomoneda de origen
+- Se selecciona la criptomoneda de origen.
 <figure>
   <img src="./images/7.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Se selecciona la criptomoneda de destino
+- Se selecciona la criptomoneda de destino.
 <figure>
   <img src="./images/8.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
@@ -91,7 +91,7 @@ Ademas de reutilizar código JS y CSS anteriores para optimizar el desarrollo. A
   <img src="./images/9.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Se muestra el resultado de la conversión
+- Se muestra el resultado de la conversión.
 <figure>
   <img src="./images/10.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
