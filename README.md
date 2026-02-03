@@ -103,7 +103,7 @@ Ademas de reutilizar código JS y CSS anteriores para optimizar el desarrollo. A
 
 Vladimir Ascencio – Desarrollador en aprendizaje continuo 🚀
 
-¡Gracias por visitar este proyecto! 🐍😄
+¡Gracias por visitar este proyecto! 🧑‍💻
 
 
 ---
