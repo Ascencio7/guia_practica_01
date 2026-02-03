@@ -15,7 +15,7 @@ Este repositorio contiene **la guía de ejercicios** que facilitan la comprensi�
 
 ✅ HTML básico con etiquetas básicas <br>
 ✅ CSS personalizado, breves animaciones y efectos<br>
-✅ JS con funciones sencillas para el cambio de contenido con links <br>
+✅ JS con funciones para incorporar Sweet Alert <br>
 ✅ Sweet Alert usado para mostrar alertas; en este caso usado en JavaScript <br>
 
 ---
